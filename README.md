@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jiyuni&show_icons=true&theme=cobalt)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dd-jiyuni&repo=github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jiyuni)

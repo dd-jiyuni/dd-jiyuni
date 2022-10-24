@@ -1,5 +1,3 @@
-<h2 align="center"> :seedling: dd-jiyuni :seedling: </h2>
-
 <div align="center">
   :raised_hands: Hi there! I am a student studying backend development.:star2: </br>
 Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard :fire: 
@@ -26,7 +24,7 @@ Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard :fire
 <br>
 
 <div align="center">
-  <p>:sunflower: SNS & Portfolio :sunflower:</p>
+  <p>:seedling: dd-jiyuni :seedling:</p>
   <a href="https://www.instagram.com/dd._.yun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://dd-jiyun2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 </div>

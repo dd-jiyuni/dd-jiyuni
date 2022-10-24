@@ -1,9 +1,4 @@
 <div align="center">
-  :raised_hands: Hi there! I am a student studying backend development.:star2: </br>
-Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard :fire: 
-</div>
-
-<div align="center">
   <h3>:books:Tech Stack:books:</h3>
   <p>:dizzy: Platforms & Languages :dizzy:</p>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -28,6 +23,12 @@ Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard :fire
   <a href="https://www.instagram.com/dd._.yun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://dd-jiyun2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 </div>
+<br>
+<div align="center">
+  :raised_hands: Hi there! I am a student studying backend development.:star2: </br>
+Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard :fire: 
+</div>
+
 <br>
 <div align="center">
   <br>

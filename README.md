@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <a href="https://www.instagram.com/dd._.yun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://dd-jiyun2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jiyuni&show_icons=true&theme=cobalt)

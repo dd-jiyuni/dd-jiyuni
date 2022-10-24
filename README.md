@@ -3,7 +3,7 @@
 <a href="https://dd-jiyun2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 🙌 Hi there! I am a student studying backend development.🌟 </br>
-Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard 💪
+<p>Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard 💪 </p>
 
 
 
@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/dd._.yun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://dd-jiyun2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jiyuni&show_icons=true&theme=cobalt)

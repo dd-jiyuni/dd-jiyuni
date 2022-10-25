@@ -42,6 +42,7 @@ Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard :fire
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jiyuni&layout=compact) 
   <br>
+	<hr>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jiyuni&show_icons=true&theme=cobalt)
 </div>
 

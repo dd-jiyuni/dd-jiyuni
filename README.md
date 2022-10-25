@@ -1,4 +1,11 @@
 <div align="center">
+	<br>
+	
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=WelCome🙌&fontSize=50)
+	
+</div>
+
+<div align="center">
   <h3>:books:Tech Stack:books:</h3>
   <p>:dizzy: Platforms & Languages :dizzy:</p>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -38,3 +45,8 @@ Currently, I am studying Java, SpringBoot, and Intellij. I'm studying hard :fire
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-jiyuni&show_icons=true&theme=cobalt)
 </div>
 
+<div align="center">
+	<br>
+	
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+</div>
